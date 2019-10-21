@@ -1,2 +1,2 @@
 # learning_templates_django
-simple templates example django python 
+simple templates example using django **python** 
