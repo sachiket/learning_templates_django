@@ -4,7 +4,7 @@ from basic_app import views
 
 
 app_name = 'basic_app'
-
+#Relative Urls
 
 urlpatterns=[
     url(r'^relative/$',views.relative,name= 'relative'),
